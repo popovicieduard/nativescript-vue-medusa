@@ -1,0 +1,50 @@
+{
+  "name": "nativescript-app",
+  "main": "src/app.ts",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "ns preview"
+  },
+  "keywords": [
+    "medusa",
+    "medusa-plugin-other",
+    "medusa-v2"
+  ],
+  "dependencies": {
+    "@medusajs/js-sdk": "^2.7.0",
+    "@nativescript-community/ui-image": "^4.5.4",
+    "@nativescript/core": "~8.9.0",
+    "@types/lodash": "^4.17.16",
+    "glob": "^11.0.1",
+    "lodash": "^4.17.21",
+    "nativescript-intl": "^4.0.2",
+    "nativescript-vue": "3.0.0",
+    "node-polyfill-webpack-plugin": "^4.1.0",
+    "router-vue-native": "^2.1.0",
+    "vue-facing-decorator": "^3.0.4",
+    "vuex-facing-decorator": "^1.2.7",
+    "web-streams-polyfill": "^4.1.0"
+  },
+  "devDependencies": {
+    "@medusajs/types": "^2.7.0",
+    "@nativescript/android": "8.9.1",
+    "@nativescript/preview-cli": "1.0.14",
+    "@nativescript/tailwind": "~2.1.0",
+    "@nativescript/types": "~8.9.0",
+    "@nativescript/webpack": "^5.0.0",
+    "@types/node": "~17.0.21",
+    "@types/webpack": "^5.28.5",
+    "@types/webpack-env": "^1.18.8",
+    "@typescript-eslint/eslint-plugin": "^8.32.0",
+    "eslint": "8.57.0",
+    "eslint-config-prettier": "8.8.0",
+    "eslint-plugin-prettier": "4.2.1",
+    "eslint-plugin-pug": "1.2.5",
+    "eslint-plugin-vue": "7.20.0",
+    "ignore-loader": "^0.1.2",
+    "null-loader": "^4.0.1",
+    "tailwindcss": "^3.4.3",
+    "typescript": "^5.7.3"
+  }
+}
