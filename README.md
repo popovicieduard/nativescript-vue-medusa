@@ -93,8 +93,4 @@ npm run lint
 
 ## 📜 License
 
-This project is licensed for educational and non-commercial use only.
-
-You are free to use, modify, and learn from this codebase. However, commercial use is not permitted without prior written consent.
-
-To inquire about commercial licensing, please contact the repository owner.
+MIT License
